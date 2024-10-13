@@ -106,9 +106,6 @@ public class AudioPlayer_final extends JPanel implements ActionListener
     public static void main(String[] args) {
         AudioPlayer_final apFinal = new AudioPlayer_final();
         apFinal.setVisible(true);
-
-        ToDoList tdl = new ToDoList();
-        tdl.setVisible(true);
     }
 
     AudioPlayer_final()
