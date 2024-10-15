@@ -1,7 +1,7 @@
 # Plain-AudioPlayer
 
 ## 使用者介面示意圖：
-![image]()
+![image](https://github.com/SugarSquirrel/Plain-AudioPlayer/blob/main/src/images/UIUXCover.gif)
 
 ## 主要功能有：
 1. 播放/暫停
