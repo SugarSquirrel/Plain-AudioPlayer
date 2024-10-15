@@ -1,4 +1,5 @@
 # Plain-AudioPlayer
+> Timeline: 2022/04-2022/06
 
 ## 音樂播放器介面示意圖：
 ![image](https://github.com/SugarSquirrel/Plain-AudioPlayer/blob/main/src/images/UIUXCover.gif)
