@@ -15,7 +15,6 @@
 ## 使用方式：
 執行AudioPlayer_final_main.java即可
 
----
-額外功能：To do List
+## 額外功能：To do List
 把AudioPlayer_final_main.java中註解的程式碼解開，直行即可產生可以按的To do List
 ![image](https://github.com/SugarSquirrel/Plain-AudioPlayer/blob/main/src/images/Ponyo.png)
